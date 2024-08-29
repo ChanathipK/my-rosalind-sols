@@ -1,0 +1,7 @@
+# ignore all files in input_files except README.md
+input_files/*
+!input_files/README.md
+
+# ignore all files in output_files except README.md
+output_files/*
+!output_files/README.md
